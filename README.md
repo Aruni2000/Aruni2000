@@ -1,5 +1,5 @@
-<h1 align="">Hi, I'm Aruni Nethmini</h1>
-<h3 align="">Web Designer & Developer | UI/UX Designer 🎨</h3>
+<h1 align="">Hi, I'm Aruni Nethmini 👩‍💻</h1>
+<h3 align="">Web Designer & Developer | UI/UX Designer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aruni2000&label=Profile%20views&color=0e75b6&style=flat" alt="aruni2000" /> </p>
 
