@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aruni2000&label=Profile%20views&color=0e75b6&style=flat" alt="aruni2000" /> </p>
 
+🎓 graduate – Faculty of Computing, University of Plymouth (UK)
+
 - 🔭 I’m currently working on **web and mobile development projects**
 
 - 🌱 I’m currently learning **React.js, Next.js, Flutter**
