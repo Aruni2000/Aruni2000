@@ -4,15 +4,15 @@
 
 🎓 graduate – Faculty of Computing, University of Plymouth (UK)
 
-- 🔭 I’m currently working on **web and mobile development projects**
+- I’m currently working on **web and mobile development projects**
 
-- 🌱 I’m currently learning **React.js, Next.js, Flutter**
+- I’m currently learning **React.js, Next.js, Flutter**
 
-- 👯 I’m looking to collaborate on **creative web and UI/UX projects**
+- I’m looking to collaborate on **creative web and UI/UX projects**
 
-- 🤝 I’m looking for help with **open source contributions**
+- I’m looking for help with **open source contributions**
 
-- ⚡ Fun fact **I enjoy digital illustration, UI/UX design, and traveling ✈️**
+- Fun fact **I enjoy digital illustration, UI/UX design, and traveling ✈️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
