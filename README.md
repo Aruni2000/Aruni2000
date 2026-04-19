@@ -14,6 +14,5 @@
 
 - Fun fact **I enjoy digital illustration, UI/UX design, and traveling ✈️**
 
-<h3 align="left">Connect with me:</h3>
 
 
